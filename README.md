@@ -27,7 +27,7 @@ The Umrah Backpacker Planner is a retro-styled, interactive web application desi
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/umrah-backpacker-planner.git
+   git clone https://github.com/fauzanlbs/umrah-backpacker-planner.git
    cd umrah-backpacker-planner
    ```
 
