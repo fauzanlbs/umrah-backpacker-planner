@@ -66,7 +66,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Fauzan - fauzanlubis23@gmail.com
 
-Project Link: [https://github.com/your-username/umrah-backpacker-planner](https://github.com/fauzanlbs/umrah-backpacker-planner)
+Project Link: [https://github.com/fauzanlbs/umrah-backpacker-planner](https://github.com/fauzanlbs/umrah-backpacker-planner)
 
 ## Acknowledgements
 
